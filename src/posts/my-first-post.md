@@ -10,6 +10,14 @@ tags:
   - center
   - right
 ---
+```
+hello wolrd
+
+<Script>
+hello world
+</script>
+```
+
 # This is a Heading h1
 
 ## This is a Heading h2
@@ -39,6 +47,8 @@ tags:
 ### Ordered
 
 1. Item 1
+
+   ![test](/static/img/case-4.png "test")
 2. Item 2
 3. Item 3
 
